@@ -1,0 +1,70 @@
+﻿{
+  "LoginWithValidUserValidPass": {
+    "url": "http://eaapp.somee.com/",
+    "username": "HumzaAmin",
+    "password": "Ham@321",
+    "value": "Hello HumzaAmin!"
+  },
+
+  "LoginWithInValidUserAndPass": {
+    "url": "http://eaapp.somee.com/",
+    "username": "Kaneez",
+    "password": "123",
+    "errormsg": "Invalid login attempt."
+  },
+
+  "LoginWithCheckbox": {
+    "url": "http://eaapp.somee.com/",
+    "username": "HumzaAmin",
+    "password": "Ham@321",
+    "value": "Hello Humza!"
+  },
+
+  "RegisterWithValidData": {
+    "url": "http://eaapp.somee.com/",
+    "username": "MHumzaa",
+    "password": "MHam@123",
+    "confirm": "MHam@123",
+    "email": "mhamza@gmail.com"
+  },
+  "RegisterLeavingFieldsEmpty": {
+    "url": "http://eaapp.somee.com/",
+    "username": "",
+    "password": "",
+    "confirm": "",
+    "email": ""
+  },
+
+  "UserlogoutSuccessfully": {
+    "url": "http://eaapp.somee.com/",
+    "username": "HumzaAmin",
+    "password": "Ham@321"
+  },
+
+  "SearchEmployeeSuccess": {
+    "url": "http://eaapp.somee.com/",
+    "search": "John",
+    "find": "John Doe"
+  },
+
+  "SearchNonExistingEmployee": {
+    "url": "http://eaapp.somee.com/",
+    "search": "Olim"
+  },
+
+  "PasswordChangesSuccessfully": {
+    "url": "http://eaapp.somee.com/",
+    "username": "Sanakhan",
+    "password": "Sana@123",
+    "newpass": "Sana@321",
+    "confirm": "Sana@321"
+  },
+  "PassChange_with_UnmatchedFields": {
+    "url": "http://eaapp.somee.com/",
+    "username": "HumzaAmin",
+    "password": "Ham@321",
+    "newpass": "Ham@123",
+    "confirm": "xyz"
+  }
+
+}

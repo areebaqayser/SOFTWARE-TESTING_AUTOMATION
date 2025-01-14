@@ -1,0 +1,12 @@
+{
+  "uuid": "8360d448-9559-4274-a55e-e6bc36f7636b",
+  "name": "Automation.POM.Login.LoginTestCase",
+  "children": [
+    "e9fb6bbf-c7d3-477b-b566-e72bb87f4fe8"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1736786840497,
+  "stop": 1736786862846
+}

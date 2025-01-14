@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Automation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F87D1E72-38FD-469F-880C-91BBEF1645EB}|Automation.csproj|d:\\automation\\pom\\login\\logintestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87D1E72-38FD-469F-880C-91BBEF1645EB}|Automation.csproj|solutionrelative:pom\\login\\logintestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87D1E72-38FD-469F-880C-91BBEF1645EB}|Automation.csproj|d:\\automation\\pom\\password\\changepasswordtestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87D1E72-38FD-469F-880C-91BBEF1645EB}|Automation.csproj|solutionrelative:pom\\password\\changepasswordtestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87D1E72-38FD-469F-880C-91BBEF1645EB}|Automation.csproj|d:\\automation\\pom\\password\\changepasswordclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87D1E72-38FD-469F-880C-91BBEF1645EB}|Automation.csproj|solutionrelative:pom\\password\\changepasswordclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87D1E72-38FD-469F-880C-91BBEF1645EB}|Automation.csproj|d:\\automation\\pom\\register\\registertestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87D1E72-38FD-469F-880C-91BBEF1645EB}|Automation.csproj|solutionrelative:pom\\register\\registertestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87D1E72-38FD-469F-880C-91BBEF1645EB}|Automation.csproj|d:\\automation\\testdata\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F87D1E72-38FD-469F-880C-91BBEF1645EB}|Automation.csproj|solutionrelative:testdata\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87D1E72-38FD-469F-880C-91BBEF1645EB}|Automation.csproj|d:\\automation\\pom\\register\\registerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87D1E72-38FD-469F-880C-91BBEF1645EB}|Automation.csproj|solutionrelative:pom\\register\\registerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87D1E72-38FD-469F-880C-91BBEF1645EB}|Automation.csproj|d:\\automation\\pom\\login\\loginclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87D1E72-38FD-469F-880C-91BBEF1645EB}|Automation.csproj|solutionrelative:pom\\login\\loginclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87D1E72-38FD-469F-880C-91BBEF1645EB}|Automation.csproj|d:\\automation\\pom\\core\\extentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87D1E72-38FD-469F-880C-91BBEF1645EB}|Automation.csproj|solutionrelative:pom\\core\\extentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 458,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterTestCases.cs",
+              "DocumentMoniker": "D:\\Automation\\POM\\Register\\RegisterTestCases.cs",
+              "RelativeDocumentMoniker": "POM\\Register\\RegisterTestCases.cs",
+              "ToolTip": "D:\\Automation\\POM\\Register\\RegisterTestCases.cs",
+              "RelativeToolTip": "POM\\Register\\RegisterTestCases.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:16:24.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangePasswordClass.cs",
+              "DocumentMoniker": "D:\\Automation\\POM\\Password\\ChangePasswordClass.cs",
+              "RelativeDocumentMoniker": "POM\\Password\\ChangePasswordClass.cs",
+              "ToolTip": "D:\\Automation\\POM\\Password\\ChangePasswordClass.cs",
+              "RelativeToolTip": "POM\\Password\\ChangePasswordClass.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:12:06.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangePasswordTestCase.cs",
+              "DocumentMoniker": "D:\\Automation\\POM\\Password\\ChangePasswordTestCase.cs",
+              "RelativeDocumentMoniker": "POM\\Password\\ChangePasswordTestCase.cs",
+              "ToolTip": "D:\\Automation\\POM\\Password\\ChangePasswordTestCase.cs",
+              "RelativeToolTip": "POM\\Password\\ChangePasswordTestCase.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:10:50.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterClass.cs",
+              "DocumentMoniker": "D:\\Automation\\POM\\Register\\RegisterClass.cs",
+              "RelativeDocumentMoniker": "POM\\Register\\RegisterClass.cs",
+              "ToolTip": "D:\\Automation\\POM\\Register\\RegisterClass.cs",
+              "RelativeToolTip": "POM\\Register\\RegisterClass.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:04:50.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExtentReport.cs",
+              "DocumentMoniker": "D:\\Automation\\POM\\Core\\ExtentReport.cs",
+              "RelativeDocumentMoniker": "POM\\Core\\ExtentReport.cs",
+              "ToolTip": "D:\\Automation\\POM\\Core\\ExtentReport.cs",
+              "RelativeToolTip": "POM\\Core\\ExtentReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:48:10.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginClass.cs",
+              "DocumentMoniker": "D:\\Automation\\POM\\Login\\LoginClass.cs",
+              "RelativeDocumentMoniker": "POM\\Login\\LoginClass.cs",
+              "ToolTip": "D:\\Automation\\POM\\Login\\LoginClass.cs",
+              "RelativeToolTip": "POM\\Login\\LoginClass.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwDMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:37:31.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginTestCase.cs",
+              "DocumentMoniker": "D:\\Automation\\POM\\Login\\LoginTestCase.cs",
+              "RelativeDocumentMoniker": "POM\\Login\\LoginTestCase.cs",
+              "ToolTip": "D:\\Automation\\POM\\Login\\LoginTestCase.cs",
+              "RelativeToolTip": "POM\\Login\\LoginTestCase.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwEUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:02:53.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Data.json",
+              "DocumentMoniker": "D:\\Automation\\TestData\\Data.json",
+              "RelativeDocumentMoniker": "TestData\\Data.json",
+              "ToolTip": "D:\\Automation\\TestData\\Data.json",
+              "RelativeToolTip": "TestData\\Data.json",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T15:59:06.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 458,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

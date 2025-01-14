@@ -1,0 +1,12 @@
+{
+  "uuid": "cb2f3c90-b4a2-43ed-b1d7-c32f759ce229",
+  "name": "Automation.POM.Login.LoginTestCase.LoginWithValidUserValidPass",
+  "children": [
+    "e9fb6bbf-c7d3-477b-b566-e72bb87f4fe8"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1736786840569,
+  "stop": 1736786862819
+}

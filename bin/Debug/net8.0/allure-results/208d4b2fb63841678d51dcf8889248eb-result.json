@@ -1,0 +1,61 @@
+{
+  "uuid": "e9fb6bbf-c7d3-477b-b566-e72bb87f4fe8",
+  "historyId": "8acc5cc24fdc858022193f1214771734",
+  "testCaseId": "3d9039c2448b2dd1dae7b950a509d680",
+  "fullName": "Automation:Automation.POM.Login.LoginTestCase.LoginWithValidUserValidPass()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-2VPR9IB"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "Automation.POM.Login"
+    },
+    {
+      "name": "testMethod",
+      "value": "LoginWithValidUserValidPass"
+    },
+    {
+      "name": "testClass",
+      "value": "LoginTestCase"
+    }
+  ],
+  "links": [],
+  "name": "LoginWithValidUserValidPass",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "LoginWithValidUserValidPass",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1736786844324,
+      "stop": 1736786862418
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1736786840575,
+  "stop": 1736786862745
+}
